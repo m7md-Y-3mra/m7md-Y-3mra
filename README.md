@@ -48,7 +48,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/mohammed-yousef-52b229252/)
 [![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mo-76)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.mohammed.yousef._/)]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.mohammed.yousef._/)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo-76&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
