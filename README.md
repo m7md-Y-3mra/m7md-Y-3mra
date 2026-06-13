@@ -8,14 +8,6 @@ I build **full-stack web applications** end to end — from clean, responsive fr
 - **1st place at Salam Hack 2026** (Pan-Arab Hackathon) for **Kashi**, an offline digital wallet.
 - Working comfortably in **English** and **Arabic**.
 
-
-Contact me:
-<a href="https://www.linkedin.com/in/mohammed-abu-amra/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-<a href="mailto:mohammedyousefamra@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
-<a href="https://github.com/m7md-Y-3mra"><b>GitHub</b></a>
-
-**Open to:** Freelance projects &nbsp;·&nbsp; Remote full-time roles &nbsp;·&nbsp; Contract work
-
 ---
 
 ### Tech stack
@@ -98,4 +90,24 @@ JWT Auth · RBAC · Real-Time Apps · Responsive Design · RTL Support · SEO ·
     src="https://streak-stats.demolab.com?user=m7md-Y-3mra&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
+</p>
+
+---
+
+### Let's connect
+
+**Open to** freelance · remote full-time · contract work
+
+<p>
+  <a href="https://www.linkedin.com/in/mohammed-abu-amra/">
+    <img src="https://img.shields.io/badge/LinkedIn-mohammed--abu--amra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:mohammedyousefamra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohammedyousefamra@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/m7md-Y-3mra">
+    <img src="https://img.shields.io/badge/GitHub-m7md--Y--3mra-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
