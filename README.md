@@ -44,8 +44,6 @@ JWT Auth · RBAC · Real-Time Apps · Responsive Design · RTL Support · SEO ·
       <br><br>
       <a href="https://github.com/Gaza-Tech/front-end">Code</a> · <a href="https://gaza-tech-eta.vercel.app/en">Live Demo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/m7md-Y-3mra/outfitly">Outfitly</a></h4>
       <b>AI-powered wardrobe styling</b> app. Generates personalized outfit recommendations from your wardrobe (Groq / Llama 3.3 70B) and suggests outfits based on live weather, with social discovery and an admin dashboard.
@@ -64,6 +62,7 @@ JWT Auth · RBAC · Real-Time Apps · Responsive Design · RTL Support · SEO ·
       <br><br>
       <a href="https://github.com/GSG-NEXT-JS-PROJECT/Food-Rescue-Hub">Code</a> · <a href="https://food-rescue-hub.netlify.app/">Live Demo</a>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
