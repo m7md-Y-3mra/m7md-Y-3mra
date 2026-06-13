@@ -25,7 +25,7 @@ Node.js · Express.js · PostgreSQL · MongoDB · Mongoose · Prisma · Redis ·
 Groq SDK · Google Gemini · RAG Pipelines · Vector Embeddings · Semantic Search · LLM Integration
  - **Tools & Platforms:**
 Git · GitHub · Figma · Jira · Vercel · Netlify · Firebase · Cloudinary · Tigris · Postman · VS Code
- -**Concepts:**
+ - **Concepts:**
 JWT Auth · RBAC · Real-Time Apps · Responsive Design · RTL Support · SEO · CI/CD
 
 ---
