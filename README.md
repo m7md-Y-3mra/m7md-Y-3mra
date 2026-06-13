@@ -1,4 +1,4 @@
-<h2 align="">
+<h2>
   <b>Full-Stack Developer</b> &nbsp;·&nbsp; <b>AI-powered</b> web apps with <b>Next.js</b> &amp; <b>Node.js</b>
 </h2>
 
@@ -7,25 +7,35 @@ I build **full-stack web applications** end to end — from clean, responsive fr
 - Focused on **full-stack architecture** and **AI integration** — **RAG pipelines**, **LLMs**, and **semantic search**.
 - **1st place at Salam Hack 2026** (Pan-Arab Hackathon) for **Kashi**, an offline digital wallet.
 - Working comfortably in **English** and **Arabic**.
- - contact me: <a href="https://www.linkedin.com/in/mohammed-abu-amra/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:mohammedyousefamra@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/m7md-Y-3mra"><b>GitHub</b></a>
+
+
+Contact me:
+<a href="https://www.linkedin.com/in/mohammed-abu-amra/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+<a href="mailto:mohammedyousefamra@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+<a href="https://github.com/m7md-Y-3mra"><b>GitHub</b></a>
+
+**Open to:** Freelance projects &nbsp;·&nbsp; Remote full-time roles &nbsp;·&nbsp; Contract work
 
 ---
 
 ### Tech stack
- 
+
 - **Languages:**
 JavaScript · TypeScript · HTML · CSS · Java · C++
+
 - **Frontend:**
 React · Next.js · Tailwind CSS · MUI · Framer Motion · GSAP · Redux · Zustand · React Query · React Hook Form · Formik · Zod · Yup · Socket.IO · TanStack Table · next-intl
- - **Backend & Database:**
+
+- **Backend & Database:**
 Node.js · Express.js · PostgreSQL · MongoDB · Mongoose · Prisma · Redis · Supabase · pgvector
- - **AI & Search:**
+
+- **AI & Search:**
 Groq SDK · Google Gemini · RAG Pipelines · Vector Embeddings · Semantic Search · LLM Integration
- - **Tools & Platforms:**
+
+- **Tools & Platforms:**
 Git · GitHub · Figma · Jira · Vercel · Netlify · Firebase · Cloudinary · Tigris · Postman · VS Code
- - **Concepts:**
+
+- **Concepts:**
 JWT Auth · RBAC · Real-Time Apps · Responsive Design · RTL Support · SEO · CI/CD
 
 ---
@@ -64,3 +74,28 @@ JWT Auth · RBAC · Real-Time Apps · Responsive Design · RTL Support · SEO ·
     </td>
   </tr>
 </table>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=m7md-Y-3mra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7md-Y-3mra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=m7md-Y-3mra&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
