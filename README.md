@@ -14,10 +14,19 @@ I build **full-stack web applications** end to end — from clean, responsive fr
 ---
 
 ### Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?perline=12&i=react,nextjs,ts,js,tailwind,redux,nodejs,express,supabase,postgres,mongodb,prisma,redis,git,github,figma,firebase,postman,vercel" alt="Tech stack">
-</p>
+ 
+- **Languages:**
+JavaScript · TypeScript · HTML · CSS · Java · C++
+- **Frontend:**
+React · Next.js · Tailwind CSS · MUI · Framer Motion · GSAP · Redux · Zustand · React Query · React Hook Form · Formik · Zod · Yup · Socket.IO · TanStack Table · next-intl
+ - **Backend & Database:**
+Node.js · Express.js · PostgreSQL · MongoDB · Mongoose · Prisma · Redis · Supabase · pgvector
+ - **AI & Search:**
+Groq SDK · Google Gemini · RAG Pipelines · Vector Embeddings · Semantic Search · LLM Integration
+ - **Tools & Platforms:**
+Git · GitHub · Figma · Jira · Vercel · Netlify · Firebase · Cloudinary · Tigris · Postman · VS Code
+ -**Concepts:**
+JWT Auth · RBAC · Real-Time Apps · Responsive Design · RTL Support · SEO · CI/CD
 
 ---
 
