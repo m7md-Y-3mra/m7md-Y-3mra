@@ -1,56 +1,75 @@
-<h3 align="center">
-  Welcome to Mohammed Yousef's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
+<h2 align="">
+  <b>Full-Stack Developer</b> &nbsp;·&nbsp; <b>AI-powered</b> web apps with <b>Next.js</b> &amp; <b>Node.js</b>
+</h2>
+
+### About me
+
+I build **full-stack web applications** end to end — from clean, responsive frontends to scalable APIs and database design — with a growing focus on integrating **AI features** into real products.
+
+- Focused on **full-stack architecture** and **AI integration** — **RAG pipelines**, **LLMs**, and **semantic search**.
+- **1st place at Salam Hack 2026** (Pan-Arab Hackathon) for **Kashi**, an offline digital wallet.
+- Working comfortably in **English** and **Arabic**.
+
+---
+
+### Tech stack
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20STACK%20DEVELOPER;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  </a>
+  <img src="https://skillicons.dev/icons?perline=12&i=react,nextjs,ts,js,tailwind,redux,nodejs,express,supabase,postgres,mongodb,prisma,redis,git,github,figma,firebase,postman,vercel" alt="Tech stack">
+</p>
+
+---
+
+### Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/m7md-Y-3mra/gaza-tech">Gaza Tech</a></h4>
+      Bilingual (AR/EN) tech marketplace &amp; community. AI natural-language search via a <b>RAG pipeline</b> (pgvector + Google Gemini) and a <b>3-stage AI seller-verification</b> flow (Groq Llama 4 — OCR, face match, authenticity scoring).
+      <br><br>
+      <code>Next.js 16</code> <code>Supabase</code> <code>Gemini</code> <code>Groq</code> <code>pgvector</code>
+      <br><br>
+      <a href="https://github.com/m7md-Y-3mra/gaza-tech">Code</a> · <a href="DEMO_URL_GAZA_TECH">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/m7md-Y-3mra/kashi">Kashi — Offline Digital Wallet</a></h4>
+      <b>1st place, Salam Hack 2026.</b> A 3-layer smart wallet for secure <b>offline P2P payments</b> using ECDSA digital signatures and encrypted QR exchange, with atomic sync &amp; replay-attack protection. Role: <b>Backend Lead</b>.
+      <br><br>
+      <code>Supabase</code> <code>Deno Edge Functions</code> <code>ECDSA</code> <code>Flutter</code> <code>SQLite</code>
+      <br><br>
+      <a href="https://github.com/m7md-Y-3mra/kashi">Code</a> · <a href="CERTIFICATE_URL_KASHI">Certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/m7md-Y-3mra/outfitly">Outfitly</a></h4>
+      <b>AI-powered wardrobe styling</b> app. Generates personalized outfit recommendations from your wardrobe (Groq / Llama 3.3 70B) and suggests outfits based on live weather, with social discovery and an admin dashboard.
+      <br><br>
+      <code>Next.js 16</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Groq</code> <code>Zustand</code>
+      <br><br>
+      <a href="https://github.com/m7md-Y-3mra/outfitly">Code</a> · <a href="DEMO_URL_OUTFITLY">Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/m7md-Y-3mra/food-rescue-hub">Food Rescue Hub</a></h4>
+      Community platform connecting food donors with recipients to reduce waste. <b>Real-time updates</b> via Socket.IO &amp; MongoDB change streams, role-based auth, map-based browsing, and push notifications. Role: <b>Team Lead</b>.
+      <br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Socket.IO</code> <code>MongoDB</code> <code>Firebase</code>
+      <br><br>
+      <a href="https://github.com/m7md-Y-3mra/food-rescue-hub">Code</a> · <a href="DEMO_URL_FOOD_RESCUE">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+---
+<p align="">
+  <a href="mailto:mohammedyousefamra@gmail.com"><img src="https://img.shields.io/badge/Email-mohammedyousefamra%40gmail.com-EA4335?style=flat&labelColor=8B1C13&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mohammed-abu-amra/"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Abu%20Amra-0A66C2?style=flat&labelColor=083D73&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-@YOUR_X_HANDLE-111827?style=flat&labelColor=000000&logo=x&logoColor=white" alt="X"></a>
 </p> 
-
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-
-- 🎓 I'm Mohammed Yousef, a computer system engineering student
-- 👨‍💻 I've already learned HTML, CSS, and JavaScript, and I have several projects that showcase my skills in these technologies.
-- 🌱 My goal is to become a MERN stack developer
-- 💼 I'm currently seeking opportunities to gain hands-on experience and collaborate on web development projects.
-- ⚡ Fun Fact: I enjoy exploring new coding challenges and find them an excellent way to grow my skills.
-
-### 🛠 &nbsp;Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
-
-### 🚀 &nbsp;I’m currently learning
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux%20-05122A?style=flat&logo=Redux)&nbsp;
-
-### 🌟 &nbsp;I will learn
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![typescript](https://img.shields.io/badge/-typescript%20-05122A?style=flat&logo=typescript)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![next.js](https://img.shields.io/badge/-next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-
-### 📧 &nbsp;Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mohammedyousefamra@gmail.com)](mailto:mohammedyousefamra@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/mohammed-yousef-52b229252/)
-[![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mo-76)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.mohammed.yousef._/)
-
-
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m7md-Y-3mra&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> -->
-
-
+<!-- <p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-abu-amra/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:mohammedyousefamra@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/m7md-Y-3mra"><b>GitHub</b></a>
+</p> -->
