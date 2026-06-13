@@ -61,15 +61,3 @@ I build **full-stack web applications** end to end — from clean, responsive fr
     </td>
   </tr>
 </table>
-
----
-<p align="">
-  <a href="mailto:mohammedyousefamra@gmail.com"><img src="https://img.shields.io/badge/Email-mohammedyousefamra%40gmail.com-EA4335?style=flat&labelColor=8B1C13&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mohammed-abu-amra/"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Abu%20Amra-0A66C2?style=flat&labelColor=083D73&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-@YOUR_X_HANDLE-111827?style=flat&labelColor=000000&logo=x&logoColor=white" alt="X"></a>
-</p> 
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-abu-amra/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:mohammedyousefamra@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/m7md-Y-3mra"><b>GitHub</b></a>
-</p> -->
