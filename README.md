@@ -64,10 +64,6 @@ I build **full-stack web applications** end to end — from clean, responsive fr
   <a href="mailto:mohammedyousefamra@gmail.com">
     <img src="https://img.shields.io/badge/Email-mohammedyousefamra@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
-  <a href="https://github.com/m7md-Y-3mra">
-    <img src="https://img.shields.io/badge/GitHub-m7md--Y--3mra-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
