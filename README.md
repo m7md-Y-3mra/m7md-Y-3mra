@@ -40,15 +40,7 @@ JWT Auth · RBAC · Real-Time Apps · Responsive Design · RTL Support · SEO ·
       <br><br>
       <code>Next.js 16</code> <code>Supabase</code> <code>Gemini</code> <code>Groq</code> <code>pgvector</code>
       <br><br>
-      <a href="https://github.com/m7md-Y-3mra/gaza-tech">Code</a> · <a href="DEMO_URL_GAZA_TECH">Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/m7md-Y-3mra/kashi">Kashi — Offline Digital Wallet</a></h4>
-      <b>1st place, Salam Hack 2026.</b> A 3-layer smart wallet for secure <b>offline P2P payments</b> using ECDSA digital signatures and encrypted QR exchange, with atomic sync &amp; replay-attack protection. Role: <b>Backend Lead</b>.
-      <br><br>
-      <code>Supabase</code> <code>Deno Edge Functions</code> <code>ECDSA</code> <code>Flutter</code> <code>SQLite</code>
-      <br><br>
-      <a href="https://github.com/m7md-Y-3mra/kashi">Code</a> · <a href="CERTIFICATE_URL_KASHI">Certificate</a>
+      <a href="https://github.com/Gaza-Tech/front-end">Code</a> · <a href="https://gaza-tech-eta.vercel.app/en">Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -58,7 +50,7 @@ JWT Auth · RBAC · Real-Time Apps · Responsive Design · RTL Support · SEO ·
       <br><br>
       <code>Next.js 16</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Groq</code> <code>Zustand</code>
       <br><br>
-      <a href="https://github.com/m7md-Y-3mra/outfitly">Code</a> · <a href="DEMO_URL_OUTFITLY">Live Demo</a>
+      <a href="https://github.com/DOMination-Team/Outfitly">Code</a> · <a href="https://outfitly-eight.vercel.app/en">Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/m7md-Y-3mra/food-rescue-hub">Food Rescue Hub</a></h4>
@@ -66,7 +58,7 @@ JWT Auth · RBAC · Real-Time Apps · Responsive Design · RTL Support · SEO ·
       <br><br>
       <code>Next.js</code> <code>TypeScript</code> <code>Socket.IO</code> <code>MongoDB</code> <code>Firebase</code>
       <br><br>
-      <a href="https://github.com/m7md-Y-3mra/food-rescue-hub">Code</a> · <a href="DEMO_URL_FOOD_RESCUE">Live Demo</a>
+      <a href="https://github.com/GSG-NEXT-JS-PROJECT/Food-Rescue-Hub">Code</a> · <a href="https://food-rescue-hub.netlify.app/">Live Demo</a>
     </td>
   </tr>
 </table>
