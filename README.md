@@ -1,15 +1,15 @@
-
 <h2 align="">
   <b>Full-Stack Developer</b> &nbsp;·&nbsp; <b>AI-powered</b> web apps with <b>Next.js</b> &amp; <b>Node.js</b>
 </h2>
-
-### About me
 
 I build **full-stack web applications** end to end — from clean, responsive frontends to scalable APIs and database design — with a growing focus on integrating **AI features** into real products.
 
 - Focused on **full-stack architecture** and **AI integration** — **RAG pipelines**, **LLMs**, and **semantic search**.
 - **1st place at Salam Hack 2026** (Pan-Arab Hackathon) for **Kashi**, an offline digital wallet.
 - Working comfortably in **English** and **Arabic**.
+ - contact me: <a href="https://www.linkedin.com/in/mohammed-abu-amra/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:mohammedyousefamra@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/m7md-Y-3mra"><b>GitHub</b></a>
 
 ---
 
