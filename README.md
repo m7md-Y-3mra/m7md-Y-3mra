@@ -52,6 +52,8 @@ JWT Auth · RBAC · Real-Time Apps · Responsive Design · RTL Support · SEO ·
       <br><br>
       <a href="https://github.com/DOMination-Team/Outfitly">Code</a> · <a href="https://outfitly-eight.vercel.app/en">Live Demo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/m7md-Y-3mra/food-rescue-hub">Food Rescue Hub</a></h4>
       Community platform connecting food donors with recipients to reduce waste. <b>Real-time updates</b> via Socket.IO &amp; MongoDB change streams, role-based auth, map-based browsing, and push notifications. Role: <b>Team Lead</b>.
